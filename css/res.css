@@ -1,0 +1,45 @@
+
+body{height: 100px;
+}
+    
+h1{
+    color:palevioletred;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+div{margin-top: 200px;
+    position: relative;
+    z-index: 2;
+    
+}
+video{
+    width: 102%;
+    position: fixed;
+    margin-top: -41%;
+    margin-left: -2%;
+    z-index: 1;
+    
+}
+h3{
+    text-align: center;
+}
+a{
+    display: inline-block;
+    padding: 12px 48px;
+    border: solid 4px rgb(255,60,100);
+    text-decoration: none;
+    color: rgb(255,60,100);
+}
+h2{
+    z-index: 2;
+    position: fixed;
+    bottom: 5px;
+    text-align: justify;
+    color: white;
+    right: 0;
+}
+p{
+    color: #17A589;
+    text-align: center;
+    font-size: 22px;
+}
